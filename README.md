@@ -1,6 +1,6 @@
 # misreads
 individual misidentification in long-term mark-resight studies
 
-currently in revision at The Condor (Sept 2018)
+currently in press at The Condor (Jan 2019 issue)
 
 simulation output files are too large to host but are available by request
